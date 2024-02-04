@@ -1,5 +1,5 @@
 # Awesome Web Development Resources ![Awesome][awesome-badge]
-
+Resource:- https://github.com/markodenic
 This is an awesome project about Web Development resources. ⚡
 
 Resources are added frequently! ⚡
